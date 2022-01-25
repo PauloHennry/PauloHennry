@@ -1,3 +1,5 @@
+### Ola me chamo Paulo Web Developer / Front-End🧐
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/paulo-henrique-a01a2a1b2/)
 
@@ -21,3 +23,9 @@
 )
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHennry&layout=compact)
+
+## About me
+
+  Estudando de analise e desenvolvimento de sistemas, venho estudando a pouco tempo sendo assim desenvolvendo minhas habilidades entrar no mercado de trabalho voltado ao desenvolvimento.🖥️
+
+ Aberto a disculsão sobre tecnologias, e estudos voltado a tecnologias qualquer coisa so me contar pelo meu linkedin ate mais...👨‍💻
