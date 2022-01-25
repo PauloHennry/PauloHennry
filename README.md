@@ -1,5 +1,7 @@
 ### Ola me chamo Paulo Web Developer / Front-End🧐
 
+
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/paulo-henrique-a01a2a1b2/)
 
@@ -26,4 +28,4 @@
 
 ## About me
 
-  Estudante de analise e desenvolvimento de sistemas, venho estudando a pouco tempo, sendo assim desenvolvendo minhas habilidades para entrar no mercado de trabalho voltado ao desenvolvimento.🖥
+  Estudante de analise e desenvolvimen 
