@@ -26,5 +26,4 @@
 
 ## About me
 
-  Estudante de analise e desenvolvimento de sistemas, venho estudando a pouco tempo, sendo assim desenvolvendo minhas habilidades para entrar no mercado de trabalho voltado ao desenvolvimento.🖥️
-
+  Estudante de analise e desenvolvimento de sistemas, venho estudando a pouco tempo, sendo assim desenvolvendo minhas habilidades para entrar no mercado de trabalho voltado ao desenvolvimento.🖥
