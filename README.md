@@ -26,6 +26,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHennry&layout=compact)
 
-## About me
-
-  Estudante de analise e desenvolvimen 
