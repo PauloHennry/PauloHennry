@@ -20,3 +20,4 @@
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 )
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHennry&layout=compact)
